@@ -1,6 +1,7 @@
 # chooseitwise_flutter
 
-A new Flutter application.
+A choice based adventure game to implement OOPS!
+
 
 ## Getting Started
 
